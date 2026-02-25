@@ -1,0 +1,8 @@
+{
+  "name": "HK Delivery Pro",
+  "description": "A smart delivery route optimization app for Hong Kong couriers. Upload address photos, auto-extract locations, and navigate the shortest path using AI-powered sequencing.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
